@@ -1,2 +1,4 @@
 # skill-similarity
-markov clustering
+* Markov clustering
+* Related skills visualization 
+* Cosine Similarity
